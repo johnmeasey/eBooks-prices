@@ -1,13 +1,13 @@
 $(document).ready(function() {
 
-  var TITLE = 'Income and Test Scores in Connecticut School Districts, 2009-13';
+  var TITLE = 'The cost of eBooks compared to printed copies of the same books';
 
   var POINT_X = 'Print'; // column name for x values in data.csv
-  var POINT_X_PREFIX = 'GBP'; // prefix for x values, eg 'GBP'
+  var POINT_X_PREFIX = ''; // prefix for x values, eg 'GBP'
   var POINT_X_POSTFIX = ''; // postfix for x values, eg 'GBP'
 
   var POINT_Y = 'Ebook'; // column name for y values in data.csv
-  var POINT_Y_PREFIX = 'GBP'; // prefix for x values, eg 'USD '
+  var POINT_Y_PREFIX = ''; // prefix for x values, eg 'USD '
   var POINT_Y_POSTFIX = ''; // postfix for x values, eg ' kg'
 
   var POINT_NAME = 'Title: '; // point names that appear in tooltip
