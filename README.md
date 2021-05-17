@@ -1,16 +1,11 @@
-# Scatter Chart with One Series in Chart.js
+# eBook prices scatter Chart with One Series in Chart.js
 
 ![Scatter chart with one series](./scatter.png)
 
 ## Demo 
 https://handsondataviz.github.io/chartjs-scatter/
 
-Sample data by TrendCT, NY Times, Stanford Ed Data Archive, American Community Survey
-
-## Create your own
-See chapter 10: Chart.js and Highcharts templates in [Hands-On Data Visualization](https://handsondataviz.org) by Jack Dougherty and Ilya Ilyankou.
-
-`data.csv` needs to contain 3 columns: x-values, y-values, and name of each data point.
+Data from: https://academicebookinvestigation.org/
 
 In `script.js`, you can customize the values of variables shown in the code snippet below. For more customization, see [Chart.js documentation](https://www.chartjs.org/docs/latest/).
 
